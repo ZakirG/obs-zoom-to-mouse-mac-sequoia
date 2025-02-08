@@ -2,6 +2,7 @@
 
 This is a revision of the code from here: 
 https://obsproject.com/forum/resources/zoom-to-mouse.1823/
+(which leads to this release)
 https://github.com/BlankSourceCode/obs-zoom-to-mouse/releases
 
 Which was written by James Lissiak https://github.com/BlankSourceCode
